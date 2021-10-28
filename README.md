@@ -6,8 +6,9 @@
 ![python](https://img.shields.io/badge/Python-3/426-1abc9c.svg)
 ![cpp](https://img.shields.io/badge/C++-1/426-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](Contributing.md)
-[![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
-[![cp](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
+[![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/upadrastaharshavardhan
+/competitive-programming)
+[![cp](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/upadrastaharsha1)
 
 This repository contains solutions to the 
 [Algorithms Domain](https://www.hackerrank.com/domains/algorithms) part of HackerRank.
